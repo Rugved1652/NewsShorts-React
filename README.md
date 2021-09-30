@@ -1,4 +1,14 @@
+# read latest news From 30+ trusted sources with News Shorts
+this APP is made with Free API of News.Org
+
+<img src="https://github.com/Tiger1652/NewsShorts/blob/master/Images/preview'%20(1).jpg">
+
+100% responsive Design
+
+<img src="https://github.com/Tiger1652/NewsShorts/blob/master/Images/preview'%20(3).jpg">
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
