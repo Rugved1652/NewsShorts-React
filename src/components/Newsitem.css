@@ -1,0 +1,22 @@
+
+.news-container{
+    display: flex;
+
+    flex-direction: row;
+
+}
+
+
+.customcard{
+    box-shadow: 5px 5px #082032!important;
+    border-radius: 10px!important;
+}
+.card-body{
+    background-color: #334756;
+    color: white;
+    border:none!important
+}
+.card-body a{
+    background-color:#082032!important;
+    border-radius: 20px!important;
+  }
